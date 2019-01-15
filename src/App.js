@@ -3,21 +3,6 @@ import logo from './logo.svg';
 import './App.css';
 import ChatDisplay from './ChatDisplay';
 
-/*
-This exercise will help you practice many of your newly aquired React skills.
-
-The instructions are included in the `instructions.md` file.
-*/
-
-// const users = [{ username: 'Amy' }, { username: 'John' }];
-
-// const messages = [
-//   { username: 'Amy', text: 'Hi, Jon!' },
-//   { username: 'Amy', text: 'How are you?' },
-//   { username: 'John', text: 'Hi, Amy! Good, you?' },
-//   { username: 'John', text: "I'm doing good" },
-// ];
-
 class App extends Component {
 
   state = {
