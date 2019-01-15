@@ -34,6 +34,7 @@ class App extends Component {
           <h1 className="App-title">ReactND - Coding Practice</h1>
         </header>
         <div className="container">
+        
           <div className="chat-window">
             <h2>Super Awesome Chat</h2>
             <div className="name sender">{users[0].username}</div>
